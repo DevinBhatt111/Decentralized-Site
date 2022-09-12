@@ -22,7 +22,7 @@ export default function Contact() {
                   : "subTitle contact-subtitle"
               }
             >
-              {contactInfo.subtitle}
+              
             </p>
             <div
               className={
